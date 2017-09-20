@@ -1,0 +1,6 @@
+﻿----Phần mềm (software) cần thiết để chạy chương trình-----
+------------------------------------------------------------------------------
+> Microsoft SQL sever: Hệ quản trị cơ sở dữ liệu của chương trình.
+> .NET Framework 4.5.
+> Crystal Report.
+> Microsoft Office Excel.

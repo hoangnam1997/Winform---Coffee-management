@@ -1,0 +1,27 @@
+(Report Header)	DANH SACH CAC NHA XUAT BAN VA DANH MUC SACH
+
+(PageHeader) Ten nha Xuat ban		Tieu de sach	
+
+(Group Header) NXB Tuoi Tre
+	 (Details session)    Mua hoa sua
+			Tuoi tre
+			Cho mot ve ve ve tuoi tho
+(Group Footer)			Tong so sach: 3
+
+(Group Header) NXB Kim Dong	
+	(Details session)     De men phieu luu ky
+			Tom and Jerry
+			Nobita
+(Group Footer)			Tong so sach: 3
+
+(tuong tu)        NXB Lao Dong
+			Nguoi lao dong nhap cu
+			Chinh sach doi voi nguoi lao dong
+			Luat lao dong											Tong so sach: 3
+
+	
+(Report Footer) 						Tong so Nha Xuat Ban: 3
+								Giam doc
+
+
+								Nguyen Van A

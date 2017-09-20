@@ -1,0 +1,57 @@
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\bin\Debug\Quan Ly Quan An.exe.config
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\bin\Debug\Quan Ly Quan An.exe
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\bin\Debug\Quan Ly Quan An.pdb
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\bin\Debug\CrystalDecisions.Shared.dll
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\bin\Debug\FlashControlV71.dll
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\bin\Debug\ShockwaveFlashObjects.dll
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\bin\Debug\stdole.dll
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\obj\Debug\Quan Ly Quan An.csprojResolveAssemblyReference.cache
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\obj\Debug\Quan_Ly_Quan_An.fNhanVien.resources
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\obj\Debug\Quan_Ly_Quan_An.fThemHoaDonDatTruoc.resources
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\obj\Debug\Quan_Ly_Quan_An.fQuanLyKho.resources
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\obj\Debug\Quan_Ly_Quan_An.fThayDoiLoaiMonAN.resources
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\obj\Debug\Quan_Ly_Quan_An.fThemThucPhamCTMA.resources
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\obj\Debug\Quan_Ly_Quan_An.fTinhLuongNhanVien.resources
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\obj\Debug\Quan_Ly_Quan_An.fXoaLoaiMonAn.resources
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\obj\Debug\Quan_Ly_Quan_An.fThemLoaiMA.resources
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\obj\Debug\Quan_Ly_Quan_An.fLapHoaDon.resources
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\obj\Debug\Quan_Ly_Quan_An.fNgayLamNhanVien.resources
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\obj\Debug\Quan_Ly_Quan_An.fXoaBanAn.resources
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\obj\Debug\Quan_Ly_Quan_An.fThayDoiSoLuong.resources
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\obj\Debug\Quan_Ly_Quan_An.fNhapThucPham.resources
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\obj\Debug\Quan_Ly_Quan_An.fThayDoiThongTinNhanVien.resources
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\obj\Debug\Quan_Ly_Quan_An.fThemBanAn.resources
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\obj\Debug\Quan_Ly_Quan_An.fBep.resources
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\obj\Debug\Quan_Ly_Quan_An.fDangNhap.resources
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\obj\Debug\Quan_Ly_Quan_An.fManHinhChinh.resources
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\obj\Debug\Quan_Ly_Quan_An.fMessageBox.resources
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\obj\Debug\Quan_Ly_Quan_An.fMessageBoxOK.resources
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\obj\Debug\Quan_Ly_Quan_An.fMucNhap.resources
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\obj\Debug\Quan_Ly_Quan_An.fThayDoiMatKhau.resources
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\obj\Debug\Quan_Ly_Quan_An.fPhanTramTraTruoc.resources
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\obj\Debug\Quan_Ly_Quan_An.fDatBanTruoc.resources
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\obj\Debug\Quan_Ly_Quan_An.fReport.resources
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\obj\Debug\Quan_Ly_Quan_An.fBaoCaoThuChi.resources
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\obj\Debug\Quan_Ly_Quan_An.fThongKe.resources
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\obj\Debug\Quan_Ly_Quan_An.fNhaCCvaKHACH.resources
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\obj\Debug\Quan_Ly_Quan_An.fThayDoiTrangThaiBanAn.resources
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\obj\Debug\Quan_Ly_Quan_An.Properties.Resources.resources
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\obj\Debug\Quan Ly Quan An.csproj.GenerateResource.Cache
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\obj\Debug\Quan Ly Quan An.exe
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\obj\Debug\Quan Ly Quan An.pdb
+E:\Code\UIT school\PTTK HTTT\Do an\Source Code\Quan Ly Quan An\Quan Ly Quan An\Quan Ly Quan An\obj\Debug\Quan_Ly_Quan_An.fThemNhaCungCap_CTTP.resources

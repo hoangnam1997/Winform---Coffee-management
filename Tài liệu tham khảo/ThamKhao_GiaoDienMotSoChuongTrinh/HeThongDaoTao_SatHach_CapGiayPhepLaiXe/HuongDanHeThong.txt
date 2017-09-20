@@ -1,0 +1,57 @@
+﻿		HƯỚNG DẪN SỬ DỤNG CHƯƠNG TRÌNH
+	           QUẢN LÍ ĐÀO TẠO SÁT HẠCH VÀ CẤP GPLX
+
+Hệ thống tổ chức đào tạo - sát hạch - cấp GPLX được chia thành 3 phân hệ với các quyền sử dụng hệ thống riêng biệt.
+1 -  Phân hệ ĐÀO TẠO.
+2 - Phân hệ SÁT HẠCH.
+3 - Phân hệ CẤP GPLX.
+
+***Phân hệ ĐÀO TẠO thực hiện các chức năng,nhiệm vu:
+ - Mở khóa đào tạo nếu có Hạng GPLX mới	
+ - Tiếp nhận học viên đăng kí vào các khóa đào tạo các hạng A1, A2, A3, B1, B2, C, D, E, F. 
+ - Tổ chức đào tạo lý thuyết và thưc hành cho các học viên.
+ - Đăng kí dự thi sát hạch cấp GPLX cho các học viên hoàn thành khóa học.
+
+***Phân hệ SÁT HẠCH thực hiện các chức năng, nhiệm vụ:
+ - Mở đợt sát hạch mới.
+ - Tiếp nhận, xét duyệt và loại bỏ hồ sơ của các thí sinh dự thi sát hạch từ phân hệ ĐÀO TẠO, các thí sinh tự do (không qua đào tạo của phân hệ ĐÀO TẠO) và các thí sinh đăng kí sát hạch lại.
+ - Tổ chức kỳ sát hạch cho các thí sinh đăng kí sát hạch.
+ - Quyết định cấp GPLX cho những thí sinh trúng tuyển trong kỳ sát hạch và chuyển Danh sách thí sinh trúng tuyển qua phân hệ CẤP GPLX.
+
+***Phân hệ CẤP GPLX thực hiện các chức năng, nhiệm vụ:
+ - Tiếp nhận danh sách thí sinh trúng tuyển từ phân hệ SÁT HẠCH.
+ - Nhập và in GPLX cho những thí sinh trúng tuyển.
+
+***QUI TRÌNH THỰC HIỆN
+ > Phân hệ Đào tạo
+  - Sử dụng Tên đăng nhập để đăng nhập vào hệ thống Quản lí đào tạo
+ - Mục Mở khóa đào tạo: để mở khóa mới(hệ thống tự động đánh Mã khóa mới)
+ - Mục Tiếp nhận hồ sơ: dùng để tiếp nhận học viên đăng kí học vào các khóa đào tạo(hệ thống tự động tăng Mã học viên mới)
+ - In DS Đăng kí: để xuất ra danh sách các thí sinh thi tiếp nhận mới
+ - In Báo Cáo Đăng kí sát hạch: dùng để in báo cáo danh sách các học viên chuyển sang cơ quan sát hạch.
+ > Phân hệ Sát hạch:
+ - Sử dụng Tên đăng nhập để đăng nhập vào hệ thống Quản lí Sát hạch
+ - Vào menu Tổ chức Sát hạch: 
+     + Mở đợt sát hạch: để mở mới 1 đợt sát hạch
+     + Tiếp nhận thí sinh mới:
+	- Mục thông tin thí sinh để hiển thị và thông tin thí sinh hoặc nhập thêm mới một thí sinh ngoài khóa đào tạo(hệ thống tự động tăng Mã thí sinh)
+	- Button Cập nhật để nhận thí sinh từ khóa đào tạo chuyển sang tương ứng với từng hạng.
+    + Đăng kí sát hạch lại: để tiếp nhận thí sinh thi lại từ đợt sát hạch trước
+	- TextBox Ghi chú dùng để nhập số lần rớt của thí sinh.
+	- Mã thí sinh sẽ tự động tăng khi click vào button tiếp nhận
+    + In danh sách dự thi sát hạch: xuất ra danh sách đăng kí dụ thi sát hạch
+    + Danh sách cán bộ sát hạch: để chỉnh sửa thông tin cán bộ
+ - Menu Xét duyệt hồ sơ:
+    +Xét điều kiện dự sát hạch và loại bỏ hồ sơ không hợp lệ: để người dùng xét tính hợp lệ của hồ sơ thí sinh
+      nếu hồ sơ hợp lệ thì hệ thống sẽ cho phép thí sinh tham gia sát hạch và tạo hồ sơ thi cho thí sinh. Hồ sơ không
+      hợp lệ tùy vào lí do và ghi chú mà người dùng sẽ loại bỏ hồ sơ
+ - Menu Kết quả sát hạch:
+    + Nhập kết quả sát hạch: chấm điểm cho thí sinh dự thi sát hạch(hệ thống sẽ tự động chấm đậu rớt)
+  >Phân hệ Cấp GPLX:
+ - Sử dụng Tên đăng nhập để đăng nhập vào hệ thống Quản lí Cấp GPLX
+    + Mục Nhập GPLX: dùng để tạo GPLX cho thí sinh thi đậu sát hạch(hệ thống sẽ tự động đánh mã GPLX và số Serial)
+    + Mục In GPLX dùng để in ra những GPLX mới.
+ > Các danh mục dùng để tra cứu các thông tin về Hạng GPLX, Dân tộc, Tôn giáo, Huyện, Tỉnh......
+ > Các mục tra cứu thống kê dùng để tra cứu GPLX và thống kê GPLX
+
+ 
